@@ -1,4 +1,4 @@
-# DiamondsPricePrediction-Project
+# Diamonds Price Prediction-Project
 Bu proje, elmasların karat ağırlığına (carat) göre fiyat tahmini yapmak amacıyla geliştirilmiştir. Python kullanılarak veri analizi yapılmış, görselleştirme uygulanmış ve makine öğrenmesi yöntemi olarak Lineer Regresyon modeli kullanılmıştır.
 
 Projede, seaborn kütüphanesinde bulunan hazır diamonds veri seti kullanılmıştır. Bu veri seti içerisinde elmasların karat, fiyat, kesim kalitesi, renk ve saflık gibi çeşitli özellikleri bulunmaktadır. Ancak bu çalışmada yalnızca carat (karat ağırlığı) ile price (fiyat) değişkenleri ele alınmıştır.
@@ -8,7 +8,9 @@ Amaç, karat arttıkça fiyatın nasıl değiştiğini analiz etmek ve bu ilişk
 Modelin başarısını değerlendirmek için:
 
 Mean Squared Error (MSE)
+
 Root Mean Squared Error (RMSE)
+
 R² Score
 
 gibi performans metrikleri hesaplanmıştır.
