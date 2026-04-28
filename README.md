@@ -18,4 +18,3 @@ gibi performans metrikleri hesaplanmıştır.
 
 Son olarak, yeni bir gözlem olarak 1.2 karatlık bir elmas için tahmini fiyat hesaplanmıştır.
 
-Bu proje özellikle veri bilimi ve makine öğrenmesine yeni başlayanlar için temel seviyede anlaşılır bir regresyon örneğidir. Veri analizi, model kurma, görselleştirme ve tahmin süreçlerini bir arada göstermektedir.
